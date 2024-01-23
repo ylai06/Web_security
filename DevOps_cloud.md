@@ -57,7 +57,7 @@ Cloud Reference Models:
   - Consumers use the provider’s applications running on the provider's cloud infrastructure.
   - Example: Built for Cloud, Uses PaaS.
  
-## DevOps:
+## DevOps
 Combining Operations and Development:
 - Network Operation + Code Development = People Culture
 
@@ -68,6 +68,15 @@ Combining Operations and Development:
 | Quality assurance | Database admins |
 
 
+## Infrastructure by Code
+Infrastructure by Code aims to bring the principles of version control, testing, and collaboration to the domain of infrastructure management.
+
+Testing:
+- **Unit testing**: Unit testing is code-level testing and takes the smallest testable code blocks and verifies their execution. We lump in formatters and linters in this category in case you are also familiar with those
+- **Integration testing**: Integration testing is at the heart of infrastructure. Sure we can test code that builds the systems; however, the actual build and runtime have to be validated. Integration testing focuses on testing several components together with a fully assembled and running system.
+- **Security testing**: we look for security tests for both positive and negative security attributes. By that, we can check for expected hardening of the system or test for possible weak spots.
+
+  
 
   
 
