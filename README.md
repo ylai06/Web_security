@@ -1,4 +1,4 @@
-# Network and Web_security
+# Network and Web Security
 Note what I learned in class.
 ## Lectures
 [L5. Network Fundamentals Architecture](/Network_fundamentals_architecture.md)
