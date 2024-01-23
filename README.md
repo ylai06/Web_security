@@ -1,7 +1,7 @@
 # Network and Web Security
 Note what I learned in class.
 ## Lectures
-[L2. Network Fundamentals & Architecture](/Network_fundamentals_rchitecture.md)
+[L2. Network Fundamentals & Architecture](/Network_fundamentals_architecture.md)
 
 [L3. Cloud Security Engineering](/Cloud_security_engineering.md)
 
