@@ -1,7 +1,7 @@
 # Network and Web Security
 Note what I learned in class.
 ## Lectures
-[L4. Cloud Services](/DevOops_Cloud.md)
+[L4. Cloud Services](/DevOps_cloud.md)
 
 [L5. Network Fundamentals Architecture](/Network_fundamentals_architecture.md)
 
