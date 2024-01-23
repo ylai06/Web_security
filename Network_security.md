@@ -34,7 +34,7 @@ By using the CIA, organisations can develop a comprehensive network security sys
 **Threats/Attacks for Transmission**
 1. Passive Attacks – Release of message content(Interception), read contents of message from sender.
 2. Passive Attacks – Traffic analysis(Interception), observe pattern of message from sender.
-3. Active Attacks - Reply(Modification), capture message from sender, later reply to receiver.
+3. Active Attacks - Replay(Modification), capture message from sender, later replay to receiver.
 4. Active Attacks - Masquerade(偽裝)(fabrication, 偽造), message from hacker that appears to be from sender.
 5. Active Attacks - Modification(modification), hacker modifies message from sender to receiver.
 6. Active Attacks – Denial of Service(DoS Attack)(Interuption+ Fabrication), hacker disrupts services provided by server.
