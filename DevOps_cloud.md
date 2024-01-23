@@ -38,16 +38,37 @@ A model for enabling convenient, on-demand network access to a shared pool of co
 - Improved process control
 
 ### Cloud Deployed Models
-- **Private**: Cloud infrastructure for a single organization only, managed by the organization or a 3rd party, on or off the premise. 
+- **Private**: Cloud infrastructure for a single organization only, managed by the organization or a 3rd party, on or off the premises. 
 - **Public**: Cloud infrastructure is available to the general public, owned by an organisation selling cloud service services.  
 - **Hybrid**: Combination of cloud types. 
-- **Community**: Cloud infrastructure shared by several organization that have shared concern, managed by org or 3rd party. 
+- **Community**: Cloud infrastructure shared by several organizations that have shared concerns, managed by an organisation or 3rd party. 
 
 ### Cloud Security Architecture(CSA) 
+![CSA-Cloud-security-architecture-Understanding-the-relationships-and-dependencies-between](https://github.com/ylai06/Web_security/assets/108776748/5d1a70d9-6116-43b9-b93d-4e45ed8804e7)
 
 Cloud Reference Models:
-- IaaS 
-- PaaS
-- SaaS
+- **IaaS**: Infrastructure as a Service is on-demand access to cloud-hosted physical and virtual servers, storage and networking - the backend IT infrastructure for running applications and workloads in the cloud.
+  - Consumers can provision computing resources within the provider's infrastructure upon which they can deploy and run arbitrary software, including OS and applications.
+  - Example: Virtual Machines, Virtual Networks.
+- **PaaS**: Platform as Service is on-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.
+  - Consumers can create custom applications using programming tools supported by the provider and deploy them onto the provider's cloud infrastructure
+  - Example: Auto Elastic, Continuous Integration.
+- **SaaS**: Software as Service is on-demand access to ready-to-use, cloud-hosted application software.
+  - Consumers use the provider’s applications running on the provider's cloud infrastructure.
+  - Example: Built for Cloud, Uses PaaS.
+ 
+## DevOps:
+Combining Operations and Development:
+- Network Operation + Code Development = People Culture
+
+| Operation | Development |
+| :----:| :----: |
+| Developers | System admins |
+| Front end | Network admins |
+| Quality assurance | Database admins |
+
+
+
+  
 
 
