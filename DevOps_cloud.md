@@ -58,7 +58,7 @@ Cloud Reference Models:
 - **SaaS**: Software as Service is on-demand access to ready-to-use, cloud-hosted application software.
   - Consumers use the provider’s applications running on the provider's cloud infrastructure.
   - Who use SaaS? end-customers.
-  - Example: Microsoft Office, Salesforce.
+  - Example: Microsoft Office365, Salesforce.
 
 [Introduction of IaaS, PaaS and Saas(youtube video)](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
  
