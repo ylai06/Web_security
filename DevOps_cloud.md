@@ -5,9 +5,9 @@
 - different delivery models. 
 - the concept of Infrastructure by Code.
 ## Security Myths 
-- The cloud is secure by design: While cloud providers implement security features, users still need to take steps to secure their data and applications through proper configurations and practices.
-- The cloud is unsecure by design: Cloud providers have robust security measures, but vulnerabilities can arise from user errors or misconfigurations. Security depends on proper implementation and ongoing vigilance.
-- Someone else’s platform means it's someone else’s problem: Believing the cloud provider handles all security aspects can lead to negligence. Users are responsible for securing their data, system configurations and active involvement in security measures, like setting access controls and encryption, is crucial for the cloud security.
+- **The cloud is secure by design**: While cloud providers implement security features, users still need to take steps to secure their data and applications through proper configurations and practices.
+- **The cloud is unsecure by design**: Cloud providers have robust security measures, but vulnerabilities can arise from user errors or misconfigurations. Security depends on proper implementation and ongoing vigilance.
+- **Someone else’s platform means it's someone else’s problem**: Believing the cloud provider handles all security aspects can lead to negligence. Users are responsible for securing their data, system configurations and active involvement in security measures, like setting access controls and encryption, is crucial for the cloud security.
 ## Cloud Computing
 A model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction
 
