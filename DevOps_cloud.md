@@ -13,14 +13,14 @@ A model for enabling convenient, on-demand network access to a shared pool of co
 
 ### On-premises Computing vs. Cloud Computing
   
-| On-premises | Cloud |
-| :----:| :----: |
-| Manually Provisioned | Self-provisioned |
-| Dedicated Hardware | Shared Hardware |
-| Fixed Capacity | Elastic Capacity |
-| Pay for Capacity  | Pay for Use |
-| Capital & Operational Expenses | Operational Expenses |
-| Managed via Sysadmins | Managed via APIs |
+| On-premises | Cloud | ? |
+| :----:| :----: | :----: |
+| Manually Provisioned | Self-provisioned | __ provisioned |
+| Dedicated Hardware | Shared Hardware | __ Hardware |
+| Fixed Capacity | Elastic Capacity | __ Capacity |
+| Pay for Capacity  | Pay for Use | Pay for __ |
+| Capital & Operational Expenses | Operational Expenses | __ Expenses |
+| Managed via Sysadmins | Managed via APIs | Managed via __ |
 
 ### 5 characteristics of cloud computing
 1. On-demand Self-Services
