@@ -24,7 +24,7 @@ By using the CIA(Model for Network Security), organisations can develop a compre
 1. **Brute force attacks**: An attacker systematically tries different combinations of usernames and passwords to gain unauthorized access to a system.
 2. **Password attacks**: Attackers use various techniques, such as dictionary attacks, to crack passwords and gain unauthorized access to systems.
 3. **Eavesdropping**: Attackers intercept and monitor network traffic to steal sensitive information.
-4. **Social engineering**: Attackers manipulate individuals into divulging sensitive information or performing actions that compromise security.
+4. **Social engineering**: Attackers manipulate individuals into divulging sensitive information or performing actions that compromise security. For example: Phishing, Impersonation, Pretexting, social media attacks, etc.
 
 **Threats/Attacks for CIA**:
 1. **Confidentiality** (Disclosure of confidential data): Compromising admin-level accounts often results in access to user’s confidential data
