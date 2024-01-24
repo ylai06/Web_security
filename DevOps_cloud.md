@@ -7,7 +7,7 @@
 ## Security Myths 
 - **The cloud is secure by design**: While cloud providers implement security features, users still need to take steps to secure their data and applications through proper configurations and practices.
 - **The cloud is unsecure by design**: Cloud providers have robust security measures, but vulnerabilities can arise from user errors or misconfigurations. Security depends on proper implementation and ongoing vigilance.
-- **Someone else’s platform means it's someone else’s problem**: Believing the cloud provider handles all security aspects can lead to negligence. Users are responsible for securing their data, system configurations and active involvement in security measures, like setting access controls and encryption, is crucial for the cloud security.
+- **Someone else’s platform means it's someone else’s problem**: Believing the cloud provider handles all security aspects can lead to negligence. Users are responsible for securing their data, and system configurations and active involvement in security measures, like setting access controls and encryption, are crucial for cloud security.
 ## Cloud Computing
 A model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or service provider interaction
 
@@ -49,15 +49,15 @@ A model for enabling convenient, on-demand network access to a shared pool of co
 Cloud Reference Models:
 - **IaaS**: Infrastructure as a Service is on-demand access to cloud-hosted physical and virtual servers, storage and networking - the backend IT infrastructure for running applications and workloads in the cloud.
   - Consumers can provision computing resources within the provider's infrastructure upon which they can deploy and run arbitrary software, including OS and applications.
-  - Who use IaaS? sysadmin.
+  - Who uses IaaS? sysadmin.
   - Example: Virtual Machines, Virtual Networks.
 - **PaaS**: Platform as Service is on-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.
   - Consumers can create custom applications using programming tools supported by the provider and deploy them onto the provider's cloud infrastructure
-  - Who use PaaS? developers.
+  - Who uses PaaS? developers.
   - Example: Auto Elastic, Continuous Integration.
 - **SaaS**: Software as Service is on-demand access to ready-to-use, cloud-hosted application software.
   - Consumers use the provider’s applications running on the provider's cloud infrastructure.
-  - Who use SaaS? end-customers.
+  - Who uses SaaS? end-customers.
   - Example: Microsoft Office365, Salesforce.
 
 [Introduction of IaaS, PaaS and Saas(youtube video)](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
@@ -81,8 +81,14 @@ Testing:
 - **Integration testing**: Integration testing is at the heart of infrastructure. Sure we can test code that builds the systems; however, the actual build and runtime have to be validated. Integration testing focuses on testing several components together with a fully assembled and running system.
 - **Security testing**: we look for security tests for both positive and negative security attributes. By that, we can check for expected hardening of the system or test for possible weak spots.
 
-  
-
-  
-
-
+## Comparision in Infrastructure creation
+| Automatically provisioned(DevOps) | Manually provisioned |
+| :----:| :----: |
+| Designed using code | Designed using graph |
+| Written high-level programming language | Written using operations manually | 
+| Test and review like code | Test and review after development |
+| Can be relocated | Can't be relocated |
+| Reduction adding new bugs | Introduce new bugs |
+| increase development speed | slow development speed |
+| One employee can manage big infrastructure | Need a team to manage |
+| Can repeat/ change it exactly | Can't repeat/ change it exactly |
