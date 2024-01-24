@@ -59,9 +59,3 @@
 1. Attack Model-driven(ATT&Ck, Kill chain): Modeling and analysis of possible attacker behavior. It focuses on malicious behaviour, attack paths, and potential motivations of attackers.
 2. Compliance Driven (Nist, ISO, BSI): Compliance requirements based on meeting regulations, standards or policies. It is concerned with ensuring that systems comply with specific laws, regulations, or industry standards.
 
-
-
-- understand the difference between security policy, coding practice and guidance.
-- understand the difference between frameworks and models.
-- understand how we can measure security 
-- understand the concept of reference diagrams 
