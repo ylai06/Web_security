@@ -16,7 +16,7 @@
 - Definition: A framework is a structured set of concepts, practices, and guidelines that provides a foundation for developing a specific type of system, application, or solution.
 - Purpose: Frameworks offer a predefined structure and a set of rules to help developers build applications more efficiently. They provide a foundation that can be customized to meet specific requirements.
 
-**Model**: 架構\概念
+**Model**: 表示\概念
 - Definition: A model is a simplified representation of a system, process, or concept used to understand, analyze, or communicate its characteristics, behaviours, or structure.
 - Purpose: Models help in visualizing and understanding complex systems by breaking them down into simpler, abstract representations. They are used for analysis, communication, and decision-making.
 
