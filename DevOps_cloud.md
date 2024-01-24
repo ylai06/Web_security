@@ -57,7 +57,7 @@ Cloud Reference Models:
   - Consumers use the provider’s applications running on the provider's cloud infrastructure.
   - Example: Built for Cloud, Uses PaaS.
 
-[Introduction of IaaS, PaaS and Saas(yt video)](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
+[Introduction of IaaS, PaaS and Saas(youtube video)](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
  
 ## DevOps
 Combining Operations and Development:
