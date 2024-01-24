@@ -49,13 +49,16 @@ A model for enabling convenient, on-demand network access to a shared pool of co
 Cloud Reference Models:
 - **IaaS**: Infrastructure as a Service is on-demand access to cloud-hosted physical and virtual servers, storage and networking - the backend IT infrastructure for running applications and workloads in the cloud.
   - Consumers can provision computing resources within the provider's infrastructure upon which they can deploy and run arbitrary software, including OS and applications.
+  - Who use IaaS? sysadmin.
   - Example: Virtual Machines, Virtual Networks.
 - **PaaS**: Platform as Service is on-demand access to a complete, ready-to-use, cloud-hosted platform for developing, running, maintaining and managing applications.
   - Consumers can create custom applications using programming tools supported by the provider and deploy them onto the provider's cloud infrastructure
+  - Who use PaaS? developers.
   - Example: Auto Elastic, Continuous Integration.
 - **SaaS**: Software as Service is on-demand access to ready-to-use, cloud-hosted application software.
   - Consumers use the provider’s applications running on the provider's cloud infrastructure.
-  - Example: Built for Cloud, Uses PaaS.
+  - Who use SaaS? end-customers.
+  - Example: Microsoft Office, Salesforce.
 
 [Introduction of IaaS, PaaS and Saas(youtube video)](https://www.youtube.com/watch?v=36zducUX16w&ab_channel=EcourseReview)
  
