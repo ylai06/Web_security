@@ -6,7 +6,7 @@
 4. **Building trust**: A secure network fosters trust between an organization and its clients, partners, and employees, as they can be confident that their data is protected.
 
 ## Goals of Network Security - CIA
-By using the CIA, organisations can develop a comprehensive network security system that effectively protects their networks and data from various threats and attackers.
+By using the CIA(Model for Network Security), organisations can develop a comprehensive network security system that effectively protects their networks and data from various threats and attackers.
 
 1. **Confidentiality(機密性)**. Such as Encryption, Access control(Authentication, *Authorisation*, Accounting(AAA)), and Network segmentation.
    - *Authentication*: Authorization rules make sure users can only perform what are permitted to do. Such as *DAC for desktops, MAC for Networks, and RBAC for Applications*.
@@ -39,4 +39,3 @@ By using the CIA, organisations can develop a comprehensive network security sys
 5. Active Attacks - Modification(modification), hacker modifies message from sender to receiver.
 6. Active Attacks – Denial of Service(DoS Attack)(Interuption+ Fabrication), hacker disrupts services provided by server.
 
-## Model for Network Security ?
